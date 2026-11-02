@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+joblib
+# Remplace la ligne suivante par la version affichée dans Colab (print(sklearn.__version__)),
+# par exemple :  scikit-learn==1.6.1
+scikit-learn
